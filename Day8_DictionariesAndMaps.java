@@ -28,3 +28,24 @@ class Solution{
         in.close();
     }
 }
+
+/*// Create a Map of String Keys to String Values, implemented by the HashMap class
+Map<String,String> myMap = new HashMap<String,String>(); 
+    
+// Adds ("Hi","Bye") mapping to myMap
+myMap.put("Hi", "Bye");	
+
+// Print the Value mapped to from "Hi"
+System.out.println(myMap.get("Hi")); 
+
+// Replaces "Bye" mapping from "Hi" with "Bye!" 
+myMap.put("Hi", "Bye!"); 
+
+// Print the Value mapped to from "Hi"
+System.out.println(myMap.get("Hi")); 
+
+Here are a few Map methods you will find helpful for this challenge:
+containsKey(Object key): Returns true if the map contains a mapping for ; returns false if there is no such mapping.
+get(Object key): Returns the value to which the  is mapped; returns null if there is no such mapping.
+put(K key, V value): Adds the (Key, Value) mapping to the Map; if the  is already in the map, the  is overwritten.
+*/
