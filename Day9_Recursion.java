@@ -10,7 +10,7 @@ public class Solution {
         if (n<=1){
             return 1;
         } else{
-            return n * (n-1);
+            return n * factorial(n-1);
         }
     }
 
