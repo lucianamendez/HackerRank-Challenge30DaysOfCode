@@ -10,7 +10,7 @@ public class Solution {
         
         int extra;
         int contador=0;
-        int t=0;
+        int rep=0;
         
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
@@ -20,8 +20,8 @@ public class Solution {
             n=n/2;
                 if (extra == 1){
                     contador++;
-                    if (contador>=t){
-                        t=contador;
+                    if (contador>=rep){
+                        rep=contador;
                     }
                 }
                 else{
@@ -29,6 +29,6 @@ public class Solution {
                 }
             }        
                 
-        System.out.println(t);
+        System.out.println(rep);
     }
 }

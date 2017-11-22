@@ -1,5 +1,5 @@
-#  HackerRank - Challenge:
-##  30 Days of Code - Language chosen:JAVA
+# HackerRank-Challenge
+:muscle: Hacker Rank Challenge "30 Days of Code" - JAVA
 ----------
 1. [Day 1: Data Types](https://github.com/lucianamendez/HackerRank-Challenge30DaysOfCode-JAVA/blob/master/Day1_DataTypes.java)
 2. [Day 2: Operators](https://github.com/lucianamendez/HackerRank-Challenge30DaysOfCode-JAVA/blob/master/Day2_Operators.java)
@@ -10,4 +10,4 @@
 7. [Day 7: Arrays](https://github.com/lucianamendez/HackerRank-Challenge30DaysOfCode-JAVA/blob/master/Day7_Arrays.java)
 8. [Day 8: Dictionaries and Maps](https://github.com/lucianamendez/HackerRank-Challenge30DaysOfCode-JAVA/blob/master/Day8_DictionariesAndMaps.java)
 9. [Day 9: Recursion](https://github.com/lucianamendez/HackerRank-Challenge30DaysOfCode-JAVA/blob/master/Day9_Recursion.java)
-10. [Day 10: Binary Numbers](https://github.com/lucianamendez/HackerRank-Challenge30DaysOfCode-JAVA/blob/master/Day9_BinaryNumbers.java)
+10. [Day 10: Binary Numbers](https://github.com/lucianamendez/HackerRank-Challenge30DaysOfCode-JAVA/blob/master/Day10_BinaryNumbers.java)
